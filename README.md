@@ -1,1 +1,1 @@
-# ansible-ec2-param-store-plugin
+# ansible-param-store
